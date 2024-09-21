@@ -1,6 +1,6 @@
 # Nozomio
 
-![Nozomio Logo](n.png) <!-- Add a logo if you have one -->
+![Nozomio Logo](nozomio.png) <!-- Add a logo if you have one -->
 
 **Nozomio** is an online platform that provides **free computer science and entrepreneurial resources**, inspiring the next generation of builders. From ideation to execution, we've got you covered. Our goal is to empower learners with the skills, tools, and knowledge they need to turn their ideas into reality, all while fostering a global community of creators.
 
