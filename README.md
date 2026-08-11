@@ -1,3 +1,5 @@
+
+
 # Nozomio
 
 ![Nozomio Logo](nozomio_socialpreview.png) <!-- Add a logo if you have one -->
@@ -54,7 +56,7 @@ Nozomio is a community-driven project, and we welcome contributions in various f
 - **New Project Ideas**: Have an idea for a coding or AI project? Share it with us!
 - **Discussions**: Engage with our community through [GitHub Discussions](https://github.com/your-repo/discussions).
 
-Read our [Contribution Guidelines](link-to-guidelines) for more details on how you can get involved.
+Read our [Contribution Guidelines](CONTRIBUTING.md) for more details on how you can get involved.
 
 ---
 
